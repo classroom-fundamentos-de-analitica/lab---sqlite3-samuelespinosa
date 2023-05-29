@@ -1,1 +1,1 @@
-SELECT TOP 5 * FROM tbl1
+SELECT * FROM tbl1 order by c14 asc limit 5
